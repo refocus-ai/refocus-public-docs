@@ -2,7 +2,7 @@
 
 ---
 
-## 0.0.4 Release Notes
+## 0.0.3 Release Notes
 
 Wow! What a journey it has been to get here, and we can't wait to show you what we have in store. You can access our roadmap here to check out what we have under development.
 
