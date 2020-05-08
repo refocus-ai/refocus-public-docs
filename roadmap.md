@@ -1,6 +1,6 @@
 # MVP+
 
-> Planned Release on May 11th
+> Planned Release on May 15th
 
 - Agents and Brokers can upload specific fields of their Book of Business to predict the likelihood of a claim at a specific address within three years.
 - Users can visualize how well the machine learning solution is performing using their data.
