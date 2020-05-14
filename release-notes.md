@@ -4,7 +4,7 @@
 
 ## 0.1.0 Release Notes (MVP+)
 
-The MVP+ release for the ReFocus AI platform has landed! 🚀
+The MVP+ release for the ReFocus platform has landed! 🚀
 
 With it comes a plethora of new useful features and enhancements to the ReFocus experience. Scroll down to learn more about what you get in this latest release.
 
