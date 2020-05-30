@@ -7,7 +7,7 @@
 
 # Beta 1.0
 
-> Planned Release on June 15th
+> Planned Release on July 15th
 
 - Agents and Brokers can upload their entire Book of Business to predict the likelihood of a claim at a specific address within three years.
 - Users can add new data to their existing machine learning model.
