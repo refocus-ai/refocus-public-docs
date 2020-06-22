@@ -7,11 +7,38 @@
 
 # Beta 1.0
 
-> Planned Release on July 15th
+> Coming July 15th
 
-- Agents and Brokers can upload their entire Book of Business to predict the likelihood of a claim at a specific address within three years.
-- Users can add new data to their existing machine learning model.
-- Users can delete an existing machine learning model and start fresh.
-- Users can see a breakdown of what categories in their data contribute to higher accuracy.
-- Users can compare a model trained on ReFocus data versus a model trained with user-provided data to see which performs better.
-- Users can run multiple policyholders predictions at the same time.
+## AI Prediction
+
+### Pinpoint Hidden Risk
+
+![Choose Data Columns](images/choose-columns.gif)
+
+Agents and Brokers can pinpoint risk for all lines of commercial insurance by uploading their Book of Business into ReFocus
+
+### Drive Retention
+
+ReFocus utilizes AI to highlight and target clients at risk of defection with loyalty initiatives to prevent churn.
+
+## Automation
+
+### Complete PDF Forms with Input Detection for Autofill
+
+Insurance PDF forms are numerous and time intensive to fill out. In Beta 1.0, ReFocus allows you to upload PDF forms that you use daily for easy completion.
+
+![Upload PDFs](images/upload-pdf.gif)
+
+Once uploaded, ReFocus detects and highlights fillable fields in orange. New fields can be added with drag-and-drop functionality. You can rename or remove these auto-detected form inputs by clicking on the highlighted areas.
+
+### PDF Forms in your browser
+
+![Fill PDF Forms](images/pdf-form-inline.gif)
+
+ReFocus makes it simple to complete uploaded PDF forms in your web browser.
+
+### PDF Form CSV Autofill
+
+![PDF Form Fill with CSV](images/pdf-form-csv.gif)
+
+To easily complete multiple different forms, you can upload a CSV file. Once complete, download the forms to your desktop..
