@@ -1,44 +1,78 @@
-# MVP+
+# ReFocus Release Roadmap
 
-> Planned Release on May 15th
+## v0.4.0
 
-- Agents and Brokers can upload specific fields of their Book of Business to predict the likelihood of a claim at a specific address within three years.
-- Users can visualize how well the machine learning solution is performing using their data.
+/Planned Release on November 18th, 2020/
 
-# Beta 1.0
+#### Multi-Classification Models
 
-> Coming July 15th
+- Enable users to predict cross-selling
+- Matching leads to markets
+- More accurate risk prediction (what is going to break vs. /something/ is going to break
 
-## AI Prediction
+#### Model creation & training walkthrough
 
-### Pinpoint Hidden Risk
+- Walk users through step by step process of creating and training their models
+- Makes Machine Learning more approachable and easier to understand its effects and advantages
 
-![Choose Data Columns](images/choose-columns.gif)
+#### Other Application Enhancements
 
-Agents and Brokers can pinpoint risk for all lines of commercial insurance by uploading their Book of Business into ReFocus
+- More information listed in Model history list
+- Better large-data handling
+- On dashboard - enable expand view
+- Reverse list view on dashboard
+- Support sql dump for data upload
+- Support for Edge legacy (non-Chromium)
+- Data snapshot viewing and removal
 
-### Drive Retention
+## v0.5.0
 
-ReFocus utilizes AI to highlight and target clients at risk of defection with loyalty initiatives to prevent churn.
+/Planned Release on January 29th, 2021/
 
-## Automation
+#### Linear Regression Models
 
-### Complete PDF Forms with Input Detection for Autofill
+- Used for time-series forecasting
+- Figures out a pattern or when something is going to happen based upon dates within the dataset
 
-Insurance PDF forms are numerous and time intensive to fill out. In Beta 1.0, ReFocus allows you to upload PDF forms that you use daily for easy completion.
+#### Database integrations
 
-![Upload PDFs](images/upload-pdf.gif)
+- Postgres
+- MongoDB
+- MSSQL
 
-Once uploaded, ReFocus detects and highlights fillable fields in orange. New fields can be added with drag-and-drop functionality. You can rename or remove these auto-detected form inputs by clicking on the highlighted areas.
+#### User permissions
 
-### PDF Forms in your browser
+- User task assignments
+- Ability to give/revoke access to specific models and data
+- Share findings publicly
 
-![Fill PDF Forms](images/pdf-form-inline.gif)
+#### Other Application Improvements
 
-ReFocus makes it simple to complete uploaded PDF forms in your web browser.
+- Ability to create custom notifications
+- Clean up settings panel to be broken down into various sub menus
+- Customize card via cell-selection
+- Search for specific customers within dashboard
 
-### PDF Form CSV Autofill
+## v0.6.0 and Beyond
 
-![PDF Form Fill with CSV](images/pdf-form-csv.gif)
+#### OAuth integrations
 
-To easily complete multiple different forms, you can upload a CSV file. Once complete, download the forms to your desktop..
+- Google
+- Microsoft
+- Apple
+
+#### Developer Portal and API for Preprocessing Pipeline
+
+- Allow for more advanced users to leverage the preprocessing technology of ReFocus
+
+#### Contract comparison
+
+- Natural language processing
+- Multi-page document that is then simplified to a 1-2 paragraph summary about this document
+
+#### Other Application Improvements
+
+- Better handle class imbalances in preprocessing
+- Creation of “fake” data via ML model that is trained on a smaller dataset
+- Flagging of untrusted, outdated, and fraudulent data
+- Integration two-ways with an AMS/CRM
