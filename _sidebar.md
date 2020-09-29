@@ -1,7 +1,6 @@
 <!-- docs/_sidebar.md -->
 
 - [Home](/)
-- [Data on Refocus AI](data-on-refocusai.md)
 - [ReFocus Release Roadmap](roadmap.md)
 - [Release Notes](release-notes.md)
   - [v0.3.0 Release Notes](0-3-0-release-notes.md)
