@@ -2,7 +2,7 @@
 
 ## v0.4.0
 
-/Planned Release on November 18th, 2020/
+_Planned Release on November 18th, 2020_
 
 #### Multi-Classification Models
 
@@ -27,7 +27,7 @@
 
 ## v0.5.0
 
-/Planned Release on January 29th, 2021/
+_Planned Release on January 29th, 2021_
 
 #### Linear Regression Models
 
