@@ -9,7 +9,7 @@ Recommender Systems are great for telling you which choice is the best choice at
 - Cross selling opportunities
 - Matching policies to markets
 
-For more information, learn how to use train your model with the new Recommender System (this is going to be a blog post article).
+For more information, [learn how to use train your model with the new Recommender System](https://blog.refocusai.com/using-the-recommender-system-on-refocus/).
 
 ## New Model Training Process
 
