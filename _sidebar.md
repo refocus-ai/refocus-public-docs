@@ -3,6 +3,7 @@
 - [Home](/)
 - [ReFocus Release Roadmap](roadmap.md)
 - [Release Notes](release-notes.md)
+  - [v0.4.1 Release Notes](0-4-1-release-notes.md)
   - [v0.4.0 Release Notes](0-4-0-release-notes.md)
   - [v0.3.1 Release Notes](0-3-1-release-notes.md)
   - [v0.3.0 Release Notes](0-3-0-release-notes.md)
